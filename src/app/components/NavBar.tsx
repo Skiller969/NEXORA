@@ -13,6 +13,9 @@ export default function NavBar() {
         <Link href="#about" className="text-xl font-semibold">
           About
         </Link>
+        <Link href="/projects" className="text-xl font-semibold">
+          Projects
+        </Link>
         <Link href="#services" className="text-xl font-semibold">
           Services
         </Link>

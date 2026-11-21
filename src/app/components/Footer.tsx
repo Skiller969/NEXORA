@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer className="grid w-full grid-cols-1 border-t border-[#2A2826]/15 md:grid-cols-2">
-      <div className="flex flex-col justify-center bg-[#2A2826] px-8 py-10 text-[#F7F3EB] text-2xl md:px-16">
+      <div className="flex flex-col justify-center items-center bg-[#2A2826] px-8 py-10 text-[#F7F3EB] text-2xl md:px-16">
         <p className="font-serif">Follow us</p>
         <div className="flex gap-3 mt-4">
           {/* insta */}
