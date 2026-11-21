@@ -25,7 +25,7 @@ const services = [
   },
 ];
 
-export default function Services() {
+export default function HomePageServices() {
   return (
     <section
       id="services"
